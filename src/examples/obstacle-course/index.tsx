@@ -65,7 +65,7 @@ const ObstacleCourse = () => {
         <p data-testid="text-result">{text}</p>
       </div>
       <div className="border-2 border-purple-300 p-2">
-        <label htmlFor="avenger">Favorite Avenger</label>
+        <label htmlFor="avenger">Favorit e Avenger</label>
         <select
           value={favoriteAvenger}
           id="avenger"
