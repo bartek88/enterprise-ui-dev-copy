@@ -36,7 +36,7 @@ jobs:
       - run: npm run build
 
   coverage:
-    runs-on: ubuntu-lates
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout respository
